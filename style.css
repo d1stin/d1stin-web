@@ -28,13 +28,7 @@ body, html {
 }
 
 .BackText {
-  background-color: rgb(0, 0, 0); /* Fallback color */
-  background-color: rgba(0, 0, 0, 0.4); /* Black w/opacity/see-through */
-  background-image: url(resources/41Q1YWWRKEL.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  filter: blur(4px);
-  -webkit-filter: blur(4px);
+  background-color: rgba(0, 0, 0, 0.4);
 
   color: white;
   font-weight: bold;
